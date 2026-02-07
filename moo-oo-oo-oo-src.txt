@@ -1,0 +1,484 @@
+.title “Moo-oo-oo-oo!”
+.comment
+created 07-Feb-2026 08:39AM r.frank
+.end
+
+.css
+body { margin-left: 11%; margin-right: 11%; line-height: 1.25; }
+h1 { margin-bottom: 0; font-weight: normal; text-align: center;
+     font-size: 1.4em; margin-top: 1em;}
+h2 { margin-bottom: 1em; font-weight: normal; text-align: center;
+     font-size: 1.1em; margin-top: 2em;}
+p { text-indent: 1.15em; margin-top: 0.1em; margin-bottom: 0.1em;
+    text-align: justify; }
+.tn { text-indent:0; margin-top: 2em; font-size: 0.9em;
+      border:none; border-top: 1px solid silver; }
+hr.tb { border:none; margin-top:1em; }
+hr + p, div.titlepage + p { text-indent: 0; }
+div.titlepage { margin-top: 2em; margin-bottom: 1em; }
+.tac { text-align: center; }
+.it { font-style: italic; }
+.end
+
+.html
+.html
+<div style="width: 70%; max-width: 100%; margin: 1em 15%;">
+  <img src="images/illus-fpc.jpg" alt="Girl milking a cow in a busy intersection"
+  style="display: block; max-width: 100%;">
+  <p class="tac mt05 fs09 it">
+    Without replying, the girl set to work.
+  </p>
+</div>
+.end
+.txt
+.ns 1
+[Illustration: Without replying, the girl set to work.]
+.ns 2
+.end
+.end
+
+.txt
+.ns 2
+                           “Moo-oo-oo-oo!”
+                           
+                         By Laurence Donovan
+
+			A city policeman’s official life may seldom be
+			happy, but Officer Corcoran had some thrilling
+			moments in his day’s work
+.ns 2
+.end
+.html
+<div class='titlepage'>
+<h1>“Moo-oo-oo-oo!”</h1>
+<div class='tac fs11'>By Laurence Donovan</div>
+<blockquote>
+<div class="fs09 it mb10">
+A city policeman’s official life may seldom be happy,
+but Officer Corcoran had some thrilling moments in his day’s work
+</div>
+</blockquote>
+</div>
+.end
+
+Even a hard-boiled, hard-eyed, hard-swearing traffic regulator may have
+his moments. Officer James Emmet Corcoran had four each week day.
+
+Shortly before nine o’clock each morning a silken little lady in a
+silky little roadster went by. This moment was merely the curtain
+raiser to the other three; for at her initial appearance Officer
+Corcoran was forced to content himself with a view of her golden red
+bob.
+
+In the morning she wore a coat that concealed her satin-white arm, but
+at noon that member curved graciously smooth and bare. When twelve
+o’clock sounded on distant whistles, Corcoran imperiously put east and
+west traffic back on its tail. Heedless of lurid objurgation, he kept
+the north avenue open, and permitted the south-bound stream to trickle
+along until a glowing aura of red showed through the wind shield of the
+tricky roadster.
+
+At just the right moment he faced his six feet three of Irish authority
+toward the north and waved the grinding gears and gnashing teeth of
+east and west traffic into the clear. That put the golden red bob on
+the sidewalk dead line. Thereupon the little lady would press the
+roadster’s flippantly musical siren and smile. With the gesture of a
+king in his own right, Corcoran would acknowledge the salutation by
+again putting the curse upon east and west traffic.
+
+The same maneuver, except that Corcoran faced to the south, was
+repeated at five minutes to one o’clock. These were the two high
+moments of the daily four; and at these times Officer Corcoran had the
+fantastic Irish fancy that he would like to be one of the dancing heat
+waves quivering upward from the stewing asphalt to caress that alluring
+arm.
+
+He wondered if his ears were as huge and red as they felt when he
+closed his eyes for a fleeting second or two and figuratively rested
+his head, with its unruly black thatch, against the cushion of the
+exposed satiny shoulder. Then he would open his eyes and grin back.
+When she was gone, flashing away in the saucy machine, he would sigh
+disconsolately.
+
+“Not for such as ye, laddie buck!” he would mutter.
+
+Thereafter, for a brief space, he would permit profane truck drivers
+and flustered lady gear clashers to fight for their own disputed rights
+of way. Then he would snap out of it and again put the razz on his
+dazed customers.
+
+His fourth moment was at four o’clock sharp. To be sure, the
+aggravating concealment of her lovely shoulder was repeated; but
+several times, at the end of the day, Officer Corcoran dared to think
+that her smile held something of wistfulness, of reaching out to him.
+
+Perhaps she was only wearied with her day’s duties, whatever they were;
+but the smile warmed the heart of the big policeman. It left him
+dreaming dreams that a traffic dictator with a curly black thatch has
+no business to dream.
+
+Each morning, however, he would come down into the cold, gray murk of
+his traffic corner, knowing that she was a creature of another world--a
+world of luxury, from which silky roadsters with made-to-order musical
+sirens are materialized; in which only gentlemen born may expect to
+hear the sweet assent of purring voices that go with bare arms of
+velvety smoothness.
+
+Officer James Emmet Corcoran had come over in the steerage. He brought
+with him the most primitive ideas about social distinctions. Removed
+from his uniformed crust, he was a great, awkward, shy inferiority
+complex in person.
+
+.txt
+.ns 4
+                                  II
+.ns 2
+.end
+.html
+<h2>II</h2>
+.end
+
+Four o’clock drew near--an orderly, decorous evening quitting time.
+Mechanically Officer Corcoran passed off the first twenty minutes of
+his final half hour on duty.
+
+At the beginning of the concluding ten minutes, however, his spirit
+perked up. He gave his badge a furtive rub. He wiped his humid brow and
+straightened his cap. Soon, very soon now, it would be time to roll up
+those obstructive lines of east and west traffic.
+
+All afternoon Corcoran had been anathematizing his lamentably inferior
+birth, breeding, and ancestry. At the high noon moments he had resolved
+to be bespeaking the little lady this same evening; but as four o’clock
+approached he was merely a uniformed Irish peasant with humility
+clogging his initiative.
+
+At ten minutes to four an attenuated rural truck driver with ragged
+chin whiskers and an untrustworthy foot on the gas got into a traffic
+jam some four blocks from Officer Corcoran’s post. His foot reached for
+the brake, found the accelerator, and pushed. He cried “Whoa!” and
+“Gee-haw!” in a panicky voice, but the nose of his battered truck kept
+right on ascending the slanting guy wire attached to a telephone pole.
+
+The crated animal in the body of the truck remained penned until the
+truck attained an angle of sixty degrees. Then she went crashing over
+and out of the broken crate into the narrow, shut-in spaces of urban
+office buildings and four-alarm fires.
+
+When the driver’s chin whiskers had been untangled from the remnants of
+a shattered radiator and the guy wire, their owner did not for some
+time take an active interest in his smashed crate. He was probably the
+only individual among the polyglot population of that immediate
+neighborhood who was familiar with the personal habits of the escaped
+animal; so the cow caused mild consternation as she wound her way over
+the hard-paved lea of Eighty-Fourth Street.
+
+At that moment the silky little roadster came to a stop with its front
+wheels exactly on the sidewalk dead line. A tired little quirk at the
+corner of the girl’s mouth made her evening smile more wistful than
+ever before.
+
+Corcoran let east and west traffic flow along far beyond its rightful
+time. South-bound motorists alongside and behind the red roadster
+honked profane horns. Corcoran looked them blandly in the eye and told
+them where to stay.
+
+Now or never, he decided. The girl’s musical siren joined the raucous
+insult; but its tone was melody in Corcoran’s ears.
+
+“Come on--come on--come on!” it said.
+
+Behind him east and west traffic was tangling. Suddenly a new sound
+crept through the squawk and grind--something utterly alien to that
+metropolitan atmosphere.
+
+“Moo-oo!” bawled a deep, insistent voice.
+
+Corcoran glanced over his shoulder.
+
+With her forefeet braced wide apart and bewilderment in her great brown
+eyes, the wandering cow had arrived at one of the world’s four
+thousand, four hundred and forty-four busiest corners. (Figures
+supplied by any chamber of commerce.)
+
+Officer Corcoran swallowed his Don Juan impulse, choked, grew red in
+the face, and lost his poise. A torrent of Gaelic Americanese flooded
+to his lips. He waved his arms.
+
+“Shoo-oo, ye domned baste!” he yelled.
+
+The cow only braced her forefeet more firmly and eyed the abusing
+policeman with mild surprise.
+
+“Moo-oo-oo-oo!” she said with doleful emphasis.
+
+A two-ton truck attempted to get by on the wrong side and ripped the
+fender off a Lincoln. The swarthy driver got down.
+
+“Ita happen lika dis, you domba-headed--”
+
+A choleric fat man climbed from behind the wheel of the Lincoln and
+waddled toward the truck driver. The truck and the Lincoln made a
+perfect block.
+
+“Moo-oo-oo-oo-oo!” pleaded the cow, addressing Officer Corcoran.
+
+“Gwan! Git! Ye’re blockin’ the strate, ye slab-sided moo-ron, ye!”
+shouted Corcoran, frantically waving ineffectual arms.
+
+He saw a piece of rope dangling from the offside crumpled horn. He
+seized the rope and tugged. Nothing came of it.
+
+“Moo-oo-oo-oo-oo!” repeated the cow, putting upon Officer Corcoran’s
+broad shoulders the burden of the world, or at least of six blocks in
+four directions of jumbled traffic, which perhaps is worse.
+
+“Git ’er some hay!” squealed the high-pitched voice of an
+anemic-looking taxi driver.
+
+“I’ll be afther gittin’ ye some----”
+
+Corcoran remembered too late. The girl’s roadster had sneaked over the
+dead line. For a desperate minute all he could see was the liquid
+depths of a pair of brown eyes framed by wisps of golden red.
+
+Hanging on to the rope, Corcoran got to one side of the cow and shoved.
+A mighty man was the policeman. The cow’s hoofs slid along the hard
+pavement. He drew her head close to his traffic signal post and
+half-hitched the rope around it.
+
+“Moo-oo-oo-oo-oo-oo!”
+
+The cow was getting into full voice. Long drawn and plaintive, her cry
+of distress fell upon the heedless ears of the unrighteous urbanites.
+
+With one hand Corcoran held the rope around the iron standard. With the
+other he gesticulated the Lincoln and the two-ton truck out of their
+jam, and got east and west traffic moving past him.
+
+Somewhere to the northward a fire siren split the air.
+
+“Ye’d have made of a airyplane to be crossin’ here!” groaned Corcoran.
+
+Jeers and jests, advice and what-not, were being hurled at him by
+passing motorists. All the time the silver-winged figure on the
+radiator of the silky roadster was poked as close to the flowing stream
+of cross travel as the girl dared.
+
+Corcoran wondered vaguely how it would seem to go back to pavement
+pounding on some outlying beat.
+
+“Moo-oo-oo-oo-oo-oo!”
+
+In the distance the fire sirens were circling the jam.
+
+“Moo-oo-oo-oo-oo-oo!”
+
+A woman driver, from whom emanated a musky perfume strong enough to
+overcome almost any barnyard odor, stopped her car between the traffic
+signal and the roadster. Then she tried to strip three sets of gears,
+but the auto maker knew his lady drivers. The gears stood the strain
+and killed the engine.
+
+“Moo-oo-oo-oo-oo-oo!”
+
+Officer Corcoran hung on. A low-browed hawker, piloting a tin boiler,
+reached from his hip and extended a long brown twist of tobacco toward
+the policeman.
+
+“Here, youse!” he offered. “Dey chews a cud, mister!”
+
+Officer Corcoran could not hold the rope and kill him. That alone saved
+the hawker’s life.
+
+.txt
+.ns 4
+                                  III
+.ns 2
+.end
+.html
+<h2>III</h2>
+.end
+
+Through the perspiration streaming into his eyes, Corcoran was
+beginning to see things in a blurred vista. Behind the scented lady’s
+stalled car he saw the red-haired girl climb from the seat of her
+roadster. The policeman was not so blind that he did not catch a vision
+of a diminutive foot shod in alligator skin, followed by a brand of
+shapeliness that would stop any show. Having long studied the contour
+of her shoulder, Corcoran was not surprised.
+
+Now she had the carry-all at the rear of the roadster open.
+
+“Mooo-oo-oo-oo-oo-oo-oo-oo-oo!”
+
+It was the longest enduring, the most heart-rending, the most
+bloodcurdling bawl he had ever heard.
+
+“Shut up, ye slab-sided hunk o’ perambulatin’ beefsteak, ye domned----”
+
+A lilting voice interrupted him.
+
+“Why, officer, I’m surprised! The poor thing must be suffering
+terribly--don’t you know?”
+
+If the big Irishman with his primitive ideas had not already been
+delivered in chains, the ripple of her voice would have finished him
+off. He didn’t know. How could he?
+
+“An’ what are ye afther--” Officer Corcoran gulped.
+
+At the moment he wished he were the cow, so that he might have
+swallowed his cud and begun over again. He remembered that this was not
+at all what he had intended to say to the red-haired vision.
+
+“What is it the bucket’s for?” he tried again, not bettering his
+address appreciably.
+
+The red-haired girl was carrying the emergency water pail and a folding
+camp stool from the roadster.
+
+“Mooo-oo-oo-oo-oo-oo-oo-oo-oo!”
+
+“O-o-o-h, the poor thing! So-o-o, bossy,” she rippled again.
+
+Forthwith she unfolded the canvas camp stool and seated herself beside
+the bawling animal.
+
+“They must have just taken her calf away,” she said, looking up and
+favoring Corcoran with his first close-up of a smile that created a
+vast empty feeling under his buttoned coat.
+
+“I didn’t--did she have one?” he stammered.
+
+Without replying, the girl reached out and under. Her slender fingers
+gripped and gave a tentative pull here and there.
+
+“Ziss, whung! Ziss, whung! Ziss, whung!”
+
+Two white streams alternately zissed and whunged into the tin pail.
+
+“Moo-oo-oo-oo-oo!”
+
+This time the sound was low and grateful, as the lowing of a contented
+cow should be.
+
+Corcoran knotted the rope to the post. The lady gear grinder had got
+her motor started again, but she still sat motionless in perfumed and
+scornful amazement. Such a thing couldn’t, simply couldn’t, happen!
+
+“Ziss, ziss, ziss, ziss!”
+
+The “whung” from the once empty pail had given way to the steady “ziss”
+of creamy milk.
+
+Corcoran peremptorily waved the scented lady on her way. She went with
+eyes sneering. With hands, voice, and whistle Corcoran attacked the jam
+immediately around him. Blocks away the fire sirens screamed futilely.
+
+“Ziss, ziss, ziss, ziss!”
+
+A burly, red-faced chauffeur stalled his car purposely and leaned out.
+He laughed with ribald inflection. Following his eyes, Corcoran noticed
+that the girl’s skimpy silken skirt was proving inadequate. A gleam,
+white as the creamy milk zissing into the pail, fogged his vision.
+
+Instantly he was beside the halted car.
+
+“Git movin’!” was all he said.
+
+The omitted curse was in his eyes. They blazed first degree murder at
+the arrant chauffeur.
+
+“Whaffor? A show’s a show, ain’t it?”
+
+Corcoran’s big hand gripped the chauffeur’s shoulder. His great thumb
+pressed deep into the man’s armpit. With his other hand he fished a
+ticket from his pocket.
+
+“Ziss, Ziss, ziss, ziss!”
+
+The chauffeur squirmed painfully.
+
+“Aw, lay off o’ me! What’s the big idea?”
+
+Corcoran released him and scribbled on the ticket.
+
+“Blockin’ traffic,” he intoned, and paused. “Drivin’ to the common
+danger--resistin’ an officer,” he chanted on, still scribbling. “Street
+mashin’--insultin’ a lady.” He handed the ticket to the chauffeur.
+“I’ll think of somethin’ else to charge ye with in court,” he added.
+
+The offender snatched the ticket and stepped on the gas.
+
+“Ziss, Ziss, ziss, ziss!”
+
+The pail was half full. East and west, north and south, Officer
+Corcoran autocratically restored the traffic. With a final scream the
+fire sirens had given it up and taken another route.
+
+“Ziss, ziss, ziss, ziss!”
+
+The golden red aureole of the girl’s hair contrasted warmly with the
+lighter yellow of the cow’s flank. For a fleeting moment Officer
+Corcoran devoutly wished that his shoulder was the cow’s hip.
+
+At length she straightened her back and rose. The pail was two-thirds
+full of foamy milk.
+
+“Moo-oo-oo!” mooed the cow in low-voiced appreciation.
+
+The eyes of liquid brown looked into the puzzled eyes of blue. A merry
+light appeared in the brown ones, a dawn of happy understanding came
+into the blue ones.
+
+Through the east and west traffic there blundered a set of ragged chin
+whiskers.
+
+“Wall, I’ll swan to gosh--who’d ever ’a’ thunk it?” drawled a nasal
+voice through the whiskers. The man untied the cow and was starting to
+lead her away. He thought of something. “Ye kin keep the milk,” he
+added generously.
+
+“Oh, thank you!” the girl replied sweetly.
+
+Through the north and south traffic Corcoran’s relief came pushing his
+way. Corcoran saw him; then he looked back to the girl, who held out
+the pail.
+
+“You may carry it,” her voice rippled again; “and I guess you may see
+me home.”
+
+Ten minutes later the silky roadster stopped before a tiny,
+old-fashioned house set back in an equally old-fashioned garden.
+Corcoran, his arm numb from balancing the pail, got out and stood
+stiffly.
+
+“You see, we only moved here from the country last fall,” said the
+girl. “That’s how I knew--” A real, honest-to-goodness blush warmed the
+translucent skin of her cheeks. “And--oh, I’m so tired of the city!”
+She wore the wistful four-o’clock smile. “I want to go back to the
+country. I wouldn’t have stayed, I guess, but I won the car in a
+drawing, and--but won’t you come in, and we’ll have some of the cream
+on strawberries from the garden?”
+
+Swinging the pail, from which not one precious drop had been spilled,
+Officer James Emmet Corcoran went up the walk behind the golden red
+bob. His primitive ideas about social distinctions were smashed
+forever.
+
+.txt
+.ns 2
+[Transcriber’s notes: (1) This story appeared in the February, 1929
+issue of _Munsey’s Magazine_.]
+.ns 1
+.end
+.html
+<div class="tn">Transcriber’s notes:
+<ol style='margin-top: 0;'>
+<li>This story appeared in the
+February, 1929 issue of <i>Munsey’s Magazine</i>.</li>
+<li>The cover image was produced by the transcriber and is not part of the original magazine publication. The illustration was generated to represent a scene from the story. The image is released into the public domain.</li>
+</ol>
+</div>
+.end
